@@ -3,8 +3,12 @@ Esa es la hisotira de Freddy Vega
 Freddy tien 33 años y nació en colombia 
 viviendo en todo el mundo 
 
+<<<<<<< HEAD
 Hoy hablaremos de su vida y su obra maestra.
 
 En cámara parece alto, pero la verdad no es tan alto 
 
 Hoy es el Ceo de Platzi.
+=======
+Mañana nos enfocaremos en su vida laboral 
+>>>>>>> cabecera
